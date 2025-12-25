@@ -1,8 +1,7 @@
 ---
-title: ""
+layout: default
+title: "Una planta sin maceta"
 ---
-
-# Una Planta sin Maceta
 
 This is going to be my future personal blog.
 
